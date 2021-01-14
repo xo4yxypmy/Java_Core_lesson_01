@@ -87,8 +87,6 @@ public class Application {
 				max1 = array2[i];
 			}
 		System.out.println("Min value = " + min1 + " " + "Max value = " + max1);
-				
-		System.out.println();
 	};
 }
 	
