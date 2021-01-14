@@ -88,6 +88,7 @@ public class Application {
 			}
 		System.out.println("Min value = " + min1 + " " + "Max value = " + max1);
 				
+		System.out.println();
 	};
 }
 	
